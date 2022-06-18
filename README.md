@@ -1,16 +1,63 @@
-### Hi there 👋
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/erhanurgun/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's LinkedIn page"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCsT0QNcU4scQILX8tcYVg2w?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Youtube channel"/>
+  </a>
+  <a href="https://twitter.com/erhanurgun">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Twitter page"/>
+  </a>
+  <a href="https://www.instagram.com/urgun_erhan/">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Twitter page"/>
+  </a>
+  <a href="https://www.facebook.com/urgunerhan">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Facebook page"/>
+  </a>
+</div>
+<div id="badges" align="center">
+  <h1>
+    HEY THERE !
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br>
+    WELCOME TO MY GITHUB REPOSITORY
+    <br>
+  </h1>
+</div>
 
-<!--
-**erhanurgun/erhanurgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :man_technologist: About Me
 
-Here are some ideas to get you started:
+### :wave: I am a Back-End Developer from Turkey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :love_letter: E-mail: [![Linkedin Badge](https://img.shields.io/badge/-email-blue?style=flat&logo=superuser&logoColor=white)](mailto:contact@erhanurgun.com.tr)
+
+### :hammer_and_wrench: Languages and Tools
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="PHP" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="75" height="75"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="75" height="75"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android Studio" alt="Android Studio" width="75" height="75"/>&nbsp;
+</div>
+
+### :fire: My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erhanurgun&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erhanurgun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div id="badges">
+  <h3>More Will Be Added Later</h3>
+  + Details about me will be added later
+  <br>
+  + For more information, you can visit my address
+    <a href="https://erhanurgun.com.tr/" target="_blank" title="Back-End Developer" rel="noopener noreferrer">erhanurgun.com.tr</a>
+</div>
