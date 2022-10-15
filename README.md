@@ -28,7 +28,7 @@
 
 ### :wave: I am a Back-End Developer from Turkey
 
-- :love_letter: E-mail: [![Linkedin Badge](https://img.shields.io/badge/-email-blue?style=flat&logo=superuser&logoColor=white)](mailto:contact@erhanurgun.com.tr)
+- :love_letter: E-mail: [![Linkedin Badge](https://img.shields.io/badge/-email-blue?style=flat&logo=superuser&logoColor=white)](mailto:urgun.js@gmail.com)
 
 ### :hammer_and_wrench: Languages and Tools
 
