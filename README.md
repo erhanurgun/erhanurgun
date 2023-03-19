@@ -28,12 +28,7 @@
 
 ```js
 import Developer from 'UrgunSoft/Developer';
-import {
-    Languages,
-    Databases,
-    Frameworks,
-    Other
-} from 'UrgunSoft/Skills';
+import { Languages, Databases, Frameworks, Other } from 'UrgunSoft/Skills';
 
 class Bio extends Developer {
     name = 'Erhan ÜRGÜN';
