@@ -27,7 +27,7 @@
 ### :man_technologist: About Me
 
 ```js
-import Developer from 'UrgunSoft/Developer';
+import Developer from 'UrgunSoft';
 import { Languages, Databases, Frameworks, Other } from 'UrgunSoft/Skills';
 
 class Bio extends Developer {
