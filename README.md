@@ -41,24 +41,12 @@ class Bio extends Developer {
     email = 'urgun.js@gmail.com';
     location = 'Agri, Turkey';
     website = [
-        {
-            name: 'Portfolio',
-            url: 'https://erhanurgun.com.tr'
-        },
-        {
-            name: 'Company',
-            url: 'https://urgun.com.tr'
-        }
+        { name: 'Portfolio', url: 'https://erhanurgun.com.tr' },
+        { name: 'Company',   url: 'https://urgun.com.tr' }
     ];
     social = [
-        {
-            name: 'Twitter',
-            url: 'https://twitter.com/erhanurgun'
-        },
-        {
-            name: 'LinkedIn',
-            url: 'https://linkedin.com/in/erhanurgun'
-        }
+        { name: 'Twitter',  url: 'https://twitter.com/erhanurgun' },
+        { name: 'LinkedIn', url: 'https://linkedin.com/in/erhanurgun' }
     ];
 }
 
