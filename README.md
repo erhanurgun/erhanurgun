@@ -26,21 +26,51 @@
 
 ### :man_technologist: About Me
 
-### :wave: I am a Back-End Developer from Turkey
+```js
+import Developer from 'UrgunSoft/Developer';
+import {
+    Languages,
+    Databases,
+    Frameworks,
+    Other
+} from 'UrgunSoft/Skills';
 
-- :love_letter: E-mail: [![Linkedin Badge](https://img.shields.io/badge/-email-blue?style=flat&logo=superuser&logoColor=white)](mailto:urgun.js@gmail.com)
+class Bio extends Developer {
+    name = 'Erhan ÜRGÜN';
+    role = 'Back-End Developer';
+    email = 'urgun.js@gmail.com';
+    location = 'Agri, Turkey';
+    website = [
+        {
+            name: 'Portfolio',
+            url: 'https://erhanurgun.com.tr'
+        },
+        {
+            name: 'Company',
+            url: 'https://urgun.com.tr'
+        }
+    ];
+    social = [
+        {
+            name: 'Twitter',
+            url: 'https://twitter.com/erhanurgun'
+        },
+        {
+            name: 'LinkedIn',
+            url: 'https://linkedin.com/in/erhanurgun'
+        }
+    ];
+}
 
-### :hammer_and_wrench: Languages and Tools
+class Skills extends Developer {
+    languages = ['PHP', 'NodeJS', 'JavaScript', ...Languages];
+    databases = ['MySQL', 'T-SQL', 'MongoDB', ...Databases];
+    frameworks = ['Laravel', 'ReactJS', 'NextJS', ...Frameworks];
+    other = ['Git', 'Docker', 'Linux', ...Other];
+}
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="PHP" width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="75" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="75" height="75"/>&nbsp;
-    
-</div>
+export default () => new Developer(Bio, Skills);
+```
 
 ### :fire: My Stats
 
