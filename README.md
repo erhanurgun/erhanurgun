@@ -28,7 +28,7 @@
 
 ```js
 import Developer from 'UrgunSoft';
-import { Languages, Databases, Frameworks, Other } from 'UrgunSoft/Skills';
+import { Languages, Databases, Frameworks, Others } from 'UrgunSoft/Skills';
 
 class Bio extends Developer {
     name = 'Erhan ÜRGÜN';
@@ -48,8 +48,8 @@ class Bio extends Developer {
 class Skills extends Developer {
     languages = ['PHP', 'NodeJS', 'JavaScript', ...Languages];
     databases = ['MySQL', 'T-SQL', 'MongoDB', ...Databases];
-    frameworks = ['Laravel', 'ReactJS', 'NextJS', ...Frameworks];
-    other = ['Git', 'Docker', 'Linux', ...Other];
+    frameworks = ['Laravel', 'AdonisJS', ...Frameworks];
+    others = ['Git', 'Docker', 'Linux', ...Others];
 }
 
 export default () => new Developer(Bio, Skills);
