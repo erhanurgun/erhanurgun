@@ -24,8 +24,6 @@
   </h1>
 </div>
 
-![](https://hit.yhype.me/github/profile?user_id=20555797)
-
 ### :man_technologist: About Me
 
 ```js
