@@ -24,6 +24,8 @@
   </h1>
 </div>
 
+![](https://hit.yhype.me/github/profile?user_id=20555797)
+
 ### :man_technologist: About Me
 
 ```js
@@ -57,9 +59,13 @@ export default () => new Developer(Bio, Skills);
 
 ### :fire: My Stats
 
+<div id="github_stats" align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erhanurgun&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erhanurgun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <div id="badges">
   <h3>More Will Be Added Later</h3>
