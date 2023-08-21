@@ -58,7 +58,8 @@ export default () => new Developer(Bio, Skills);
 ### :fire: My Stats
 
 <div id="github_stats" align="center">
-
+  
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e3040aced78d2935342aeb?variant=dark&roadmaps=backend%2Cnodejs%2Csql%2Cjavascript)](https://roadmap.sh)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erhanurgun&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
