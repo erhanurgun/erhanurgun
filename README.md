@@ -76,5 +76,7 @@ export default () => new Developer(Bio, Skills);
   + Details about me will be added later
   <br>
   + For more information, you can visit my address
-    <a href="https://erhanurgun.com.tr/" target="_blank" title="Back-End Developer">erhanurgun.com.tr</a>
+    <a href="https://erhanurgun.com.tr" target="_blank" title="Portfolio">erhanurgun.com.tr</a>
+    or
+    <a href="https://erho.dev" target="_blank" title="Blog">erho.dev</a>
 </div>
