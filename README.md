@@ -33,7 +33,7 @@ import { Languages, Databases, Frameworks, Others } from 'UrgunSoft/Skills';
 class Bio extends Developer {
     name = 'Erhan ÜRGÜN';
     role = 'Back-End Developer';
-    email = 'urgun.js@gmail.com';
+    email = 'erho.dev@gmail.com';
     location = 'Agri, Turkey';
     website = [
         { name: 'Portfolio', url: 'https://erhanurgun.com.tr' },
