@@ -37,7 +37,8 @@ class Bio extends Developer {
     location = 'Agri, Turkey';
     website = [
         { name: 'Portfolio', url: 'https://erhanurgun.com.tr' },
-        { name: 'Company',   url: 'https://urgun.com.tr' }
+        { name: 'Company',   url: 'https://urgun.com.tr' },
+        { name: 'Blog', url: 'https://erho.dev' }
     ];
     social = [
         { name: 'Twitter',  url: 'https://twitter.com/erhanurgun' },
