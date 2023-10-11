@@ -19,7 +19,7 @@
   <h1>
     HEY THERE !
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br>
-    WELCOME TO MY GITHUB REPOSITORY
+    WELCOME TO MY GITHUB REPOSITORY 
     <br>
   </h1>
 </div>
