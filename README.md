@@ -60,13 +60,15 @@ export default () => new Developer(Bio, Skills);
 
 <div id="github_stats" align="center">
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e3040aced78d2935342aeb?variant=dark&roadmaps=backend%2Cnodejs%2Csql%2Cjavascript)](https://roadmap.sh)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erhanurgun&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erhanurgun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e3040aced78d2935342aeb?variant=dark&roadmaps=backend%2Cnodejs%2Csql%2Cjavascript)](https://roadmap.sh)
+
+<a href="https://app.daily.dev/erhanurgun"><img src="https://api.daily.dev/devcards/c2a467f911494bfe875bd9c48226a7bb.png?r=xws" width="400" alt="Erhan ÜRGÜN's Dev Card"/></a>
 
 <a target="_blank" href="https://www.codewars.com/users/erhanurgun"><img src="https://www.codewars.com/users/erhanurgun/badges/large" alt="codewars badge large" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erhanurgun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a target="_blank" href="https://leetcode.com/erhanurgun"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Ferhanurgun&logo=leetcode&logoColor=yellow" alt="leetcode badge large" /></a>
 
