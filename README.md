@@ -64,7 +64,7 @@ export default () => new Developer(Bio, Skills);
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e3040aced78d2935342aeb?variant=dark&roadmaps=backend%2Cnodejs%2Csql%2Cjavascript)](https://roadmap.sh)
 
-<a href="https://app.daily.dev/erhanurgun"><img src="https://api.daily.dev/devcards/c2a467f911494bfe875bd9c48226a7bb.png?r=xws" width="400" alt="Erhan ÜRGÜN's Dev Card"/></a>
+<a href="https://app.daily.dev/erhanurgun"><img src="https://api.daily.dev/devcards/c2a467f911494bfe875bd9c48226a7bb.png?r=h2b" width="400" alt="Erhan ÜRGÜN's Dev Card"/></a>
 
 <a target="_blank" href="https://www.codewars.com/users/erhanurgun"><img src="https://www.codewars.com/users/erhanurgun/badges/large" alt="codewars badge large" /></a>
 
