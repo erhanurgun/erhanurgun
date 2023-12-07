@@ -27,8 +27,8 @@
 ### :man_technologist: About Me
 
 ```js
-import Developer from 'UrgunSoft';
-import { Languages, Databases, Frameworks, Others } from 'UrgunSoft/Skills';
+import Developer from 'Orizora';
+import { Languages, Databases, Frameworks, Others } from 'Orizora/Skills';
 
 class Bio extends Developer {
     name = 'Erhan ÜRGÜN';
@@ -37,7 +37,7 @@ class Bio extends Developer {
     location = 'Agri, Turkey';
     website = [
         { name: 'Portfolio', url: 'https://erhanurgun.com.tr' },
-        { name: 'Company',   url: 'https://urgun.com.tr' },
+        { name: 'Company',   url: 'https://orizora.com' },
         { name: 'Blog', url: 'https://erho.dev' }
     ];
     social = [
