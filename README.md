@@ -75,8 +75,7 @@ export default () => new Developer(Bio, Skills);
 </div>
 
 <div id="badges">
-  <h3>Daha Fazlası Daha Sonra Eklenecek</h3>
-  + Details about me will be added later
+  + Hakkımdaki detaylar zamanla güncellenecektir...
   <br>
   + Daha fazla bilgi için
     <a href="https://erhanurgun.com.tr" target="_blank" title="Portfolio">erhanurgun.com.tr</a>
