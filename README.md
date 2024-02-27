@@ -1,17 +1,17 @@
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/erhanurgun/">
+  <a href="https://www.linkedin.com/in/erhanurgun/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's LinkedIn page"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCsT0QNcU4scQILX8tcYVg2w?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UCsT0QNcU4scQILX8tcYVg2w?sub_confirmation=1" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Youtube channel"/>
   </a>
-  <a href="https://twitter.com/erhanurgun">
+  <a href="https://twitter.com/erhanurgun" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Twitter page"/>
   </a>
-  <a href="https://www.instagram.com/urgun_erhan/">
+  <a href="https://www.instagram.com/urgun_erhan/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Twitter page"/>
   </a>
-  <a href="https://www.facebook.com/urgunerhan">
+  <a href="https://www.facebook.com/urgunerhan" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Facebook page"/>
   </a>
 </div>
@@ -19,7 +19,7 @@
 <hr>
 
 <div id="message" align="center">
-    <a href="https://git.io/typing-svg">
+    <a href="https://git.io/typing-svg" target="_blank">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&random=false&width=780&separator=%3C&lines=Selamlar%2C+github+profilime+ho%C5%9Fgeldiniz...+%F0%9F%91%8B%3CBen+bir+back-end+geli%C5%9Ftiricisiyim.%3C%C4%B0lgi+alan%C4%B1m+daha+%C3%A7ok+RESTful+API+geli%C5%9Ftirme+%C3%BCzerine!%3CS%C3%BCrekli+olarak+kendimi+bu+alanda+geli%C5%9Ftiriyorum...%3CFavorim;+Laravel+ve+AdonisJS+ile+RESTful+API+yazmak...%3CDaha+fazlas%C4%B1+i%C3%A7in+websitelerimi+ziyaret+edebilirsiniz..." alt="Typing SVG" />
     </a>
 </div>
@@ -64,17 +64,21 @@ export default () => new Developer(Bio, Skills);
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e3040aced78d2935342aeb?variant=dark&roadmaps=backend%2Cnodejs%2Csql%2Cjavascript)](https://roadmap.sh)
 
-<a href="https://app.daily.dev/erhanurgun"><img src="https://github.com/erhanurgun/erhanurgun/blob/main/devcard.svg" width="400" alt="Erhan ÜRGÜN's Dev Card"/></a>
+<a href="https://app.daily.dev/erhanurgun" target="_blank">
+  <img src="https://github.com/erhanurgun/erhanurgun/blob/main/devcard.svg" width="400" alt="Erhan ÜRGÜN's Dev Card"/>
+</a><br><br>
 
-<a target="_blank" href="https://www.codewars.com/users/erhanurgun"><img src="https://www.codewars.com/users/erhanurgun/badges/large" alt="codewars badge large" /></a>
+<a href="https://www.codewars.com/users/erhanurgun" target="_blank">
+  <img src="https://www.codewars.com/users/erhanurgun/badges/large" alt="codewars badge large" />
+</a><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erhanurgun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a target="_blank" href="https://leetcode.com/erhanurgun">
+<a href="https://leetcode.com/erhanurgun" target="_blank">
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Ferhanurgun&logo=leetcode&logoColor=yellow" alt="leetcode badge large" />
 </a><br><br>
 
-<a target="_blank" href="https://tr.liberapay.com/erhanurgun">
+<a href="https://tr.liberapay.com/erhanurgun" target="_blank">
   <img src="https://img.shields.io/liberapay/receives/erhanurgun.svg?logo=liberapay">
 </a><br><br>
 
