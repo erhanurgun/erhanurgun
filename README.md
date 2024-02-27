@@ -76,7 +76,7 @@ export default () => new Developer(Bio, Skills);
 
 <a target="_blank" href="https://tr.liberapay.com/erhanurgun">
   <img src="https://img.shields.io/liberapay/receives/erhanurgun.svg?logo=liberapay">
-</a>
+</a><br><br>
 
 </div>
 
