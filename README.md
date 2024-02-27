@@ -70,9 +70,13 @@ export default () => new Developer(Bio, Skills);
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erhanurgun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a target="_blank" href="https://leetcode.com/erhanurgun"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Ferhanurgun&logo=leetcode&logoColor=yellow" alt="leetcode badge large" /></a>
+<a target="_blank" href="https://leetcode.com/erhanurgun">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Ferhanurgun&logo=leetcode&logoColor=yellow" alt="leetcode badge large" />
+</a>
 
-<img src="https://img.shields.io/liberapay/receives/erhanurgun.svg?logo=liberapay">
+<a target="_blank" href="https://tr.liberapay.com/erhanurgun">
+  <img src="https://img.shields.io/liberapay/receives/erhanurgun.svg?logo=liberapay">
+</a>
 
 </div>
 
