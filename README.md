@@ -72,7 +72,7 @@ export default () => new Developer(Bio, Skills);
 
 <a target="_blank" href="https://leetcode.com/erhanurgun">
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Ferhanurgun&logo=leetcode&logoColor=yellow" alt="leetcode badge large" />
-</a>
+</a><br><br>
 
 <a target="_blank" href="https://tr.liberapay.com/erhanurgun">
   <img src="https://img.shields.io/liberapay/receives/erhanurgun.svg?logo=liberapay">
