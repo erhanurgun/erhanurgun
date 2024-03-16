@@ -8,10 +8,10 @@
   <a href="https://twitter.com/erhanurgun" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Twitter page"/>
   </a>
-  <a href="https://www.instagram.com/urgun_erhan/" target="_blank">
+  <a href="https://www.instagram.com/erhanurgunn/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Twitter page"/>
   </a>
-  <a href="https://www.facebook.com/urgunerhan" target="_blank">
+  <a href="https://www.facebook.com/erhanurgunn" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Facebook page"/>
   </a>
 </div>
