@@ -60,6 +60,10 @@ export default () => new Developer(Bio, Skills);
 
 <div id="github_stats" align="center">
 
+<a href="https://codersclub.co/tr/dev/erhanurgun" target="_blank">
+  <img src="https://i.hizliresim.com/e8swhnf.png" alt="codersclub badge large" />
+</a><br><br>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erhanurgun&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e3040aced78d2935342aeb?variant=dark&roadmaps=backend%2Cnodejs%2Csql%2Cjavascript)](https://roadmap.sh)
