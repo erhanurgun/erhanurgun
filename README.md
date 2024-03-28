@@ -68,9 +68,9 @@ export default () => new Developer(Bio, Skills);
   <img src="./devcard.svg" width="400" alt="Erhan ÜRGÜN's Dev Card"/>
 </a><br><br>
 
-<a href="https://codersclub.co/tr/dev/erhanurgun" target="_blank">
+<!--<a href="https://codersclub.co/tr/dev/erhanurgun" target="_blank">
   <img style="width:404px;height:666px;border-radius:20px" src="./codersclub.png" alt="codersclub badge large" />
-</a><br><br>
+</a><br><br>-->
 
 <a href="https://www.codewars.com/users/erhanurgun" target="_blank">
   <img src="https://www.codewars.com/users/erhanurgun/badges/large" alt="codewars badge large" />
