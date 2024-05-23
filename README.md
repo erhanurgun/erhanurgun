@@ -33,7 +33,7 @@ import { Languages, Databases, Frameworks, Others } from 'Orizora/Skills';
 class Bio extends Developer {
     name = 'Erhan ÜRGÜN';
     role = 'Back-End Developer';
-    email = 'erho.dev@gmail.com';
+    email = 'erho@duck.com';
     location = 'Agri, Turkey';
     website = [
         { name: 'Portfolio', url: 'https://erhanurgun.com.tr' },
