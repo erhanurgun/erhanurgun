@@ -43,8 +43,8 @@ class Bio extends Developer {
         { name: 'Blog',      url: 'https://erho.dev' }
     ];
     social = [
-        { name: 'Twitter',  url: 'https://twitter.com/erhanurgun' },
-        { name: 'LinkedIn', url: 'https://linkedin.com/in/erhanurgun' }
+        { name: 'Twitter',   url: 'https://twitter.com/erhanurgun' },
+        { name: 'LinkedIn',  url: 'https://linkedin.com/in/erhanurgun' }
     ];
 }
 
