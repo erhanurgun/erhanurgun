@@ -52,7 +52,7 @@ class Skills extends Developer {
     frameworks = ['Laravel', 'AdonisJS', ...Frameworks];
     server = ['Apache', 'Nginx', ...Server];
     // devops = ['Jenkins', 'CI/CD', 'Kubernetes', ...DevOps];
-    // cloud = ['AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean', 'Heroku', 'Vercel', ...Cloud];
+    // cloud = ['AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean', 'Heroku', ...Cloud];
     others = ['Git', 'Docker', 'Linux', ...Other];
 }
 
