@@ -28,7 +28,9 @@
 
 ```js
 import Developer from 'Orizora';
-import { Languages, Databases, Frameworks, Server, DevOps, Cloud, Other } from 'Orizora/Skills';
+import {
+    Languages, Databases, Frameworks, Api, Server, Caching, DevOps, Cloud, Other
+} from 'Orizora/Skills';
 
 class Bio extends Developer {
     name = 'Erhan ÜRGÜN';
@@ -48,12 +50,14 @@ class Bio extends Developer {
 
 class Skills extends Developer {
     languages = ['PHP', 'NodeJS', 'JavaScript', ...Languages];
-    databases = ['MySQL', 'T-SQL', 'MongoDB', ...Databases];
+    databases = ['MySQL', 'MsSQL', 'MongoDB', ...Databases];
     frameworks = ['Laravel', 'AdonisJS', ...Frameworks];
+    api = ['RESTful API', /*'GraphQL', 'gRPC'*/, ...Api];
     server = ['Apache', 'Nginx', ...Server];
+    // caching = ['Redis', 'Memcached', ...Caching];
     // devops = ['Jenkins', 'CI/CD', 'Kubernetes', ...DevOps];
     // cloud = ['AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean', 'Heroku', ...Cloud];
-    others = ['Git', 'Docker', 'Linux', ...Other];
+    other = ['Git', 'Docker', 'Linux', ...Other];
 }
 
 export default () => new Developer(Bio, Skills);
