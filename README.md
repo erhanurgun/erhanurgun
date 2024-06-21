@@ -28,7 +28,7 @@
 
 ```js
 import Developer from 'Orizora';
-import { Languages, Databases, Frameworks, Others } from 'Orizora/Skills';
+import { Languages, Databases, Frameworks, Server, DevOps, Cloud, Other } from 'Orizora/Skills';
 
 class Bio extends Developer {
     name = 'Erhan ÜRGÜN';
@@ -50,7 +50,10 @@ class Skills extends Developer {
     languages = ['PHP', 'NodeJS', 'JavaScript', ...Languages];
     databases = ['MySQL', 'T-SQL', 'MongoDB', ...Databases];
     frameworks = ['Laravel', 'AdonisJS', ...Frameworks];
-    others = ['Git', 'Docker', 'Linux', ...Others];
+    server = ['Apache', 'Nginx', ...Server];
+    // devops = ['Jenkins', 'CI/CD', 'Kubernetes'];
+    // cloud = ['AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean', 'Heroku', 'Vercel', ...Cloud];
+    others = ['Git', 'Docker', 'Linux', ...Other];
 }
 
 export default () => new Developer(Bio, Skills);
