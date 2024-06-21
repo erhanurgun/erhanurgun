@@ -33,14 +33,14 @@ import {
 } from 'Orizora/Skills';
 
 class Bio extends Developer {
-    name = 'Erhan ÜRGÜN';
-    role = 'Back-End Developer';
-    email = 'erho@duck.com';
+    name     = 'Erhan ÜRGÜN';
+    role     = 'Back-End Developer';
+    email    = 'erho@duck.com';
     location = 'Agri, Turkey';
     website = [
         { name: 'Portfolio', url: 'https://erhanurgun.com.tr' },
         { name: 'Company',   url: 'https://orizora.com' },
-        { name: 'Blog', url: 'https://erho.dev' }
+        { name: 'Blog',      url: 'https://erho.dev' }
     ];
     social = [
         { name: 'Twitter',  url: 'https://twitter.com/erhanurgun' },
@@ -49,15 +49,15 @@ class Bio extends Developer {
 }
 
 class Skills extends Developer {
-    languages = ['PHP', 'NodeJS', 'JavaScript', ...Languages];
-    databases = ['MySQL', 'MsSQL', 'MongoDB', ...Databases];
+    languages  = ['PHP', 'NodeJS', 'JavaScript', ...Languages];
+    databases  = ['MySQL', 'MsSQL', 'MongoDB', ...Databases];
     frameworks = ['Laravel', 'AdonisJS', ...Frameworks];
-    api = ['RESTful API', /*'GraphQL', 'gRPC'*/, ...Api];
-    server = ['Apache', 'Nginx', ...Server];
+    api        = ['RESTful API', /*'GraphQL', 'gRPC'*/, ...Api];
+    server     = ['Apache', 'Nginx', ...Server];
     // caching = ['Redis', 'Memcached', ...Caching];
-    // devops = ['Jenkins', 'CI/CD', 'Kubernetes', ...DevOps];
-    cloud = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
-    other = ['Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', ...Other];
+    // devops  = ['Jenkins', 'CI/CD', 'Kubernetes', ...DevOps];
+    cloud      = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
+    other      = ['Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', ...Other];
 }
 
 export default () => new Developer(Bio, Skills);
