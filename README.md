@@ -29,7 +29,7 @@
 ```js
 import Developer from 'Orizora';
 import {
-    Languages, Databases, Frameworks, Api, Server, Caching, DevOps, Cloud, Other
+    Language, Database, Framework, Api, Server, Caching, DevOps, Cloud, Other
 } from 'Orizora/Skills';
 
 class Bio extends Developer {
@@ -37,27 +37,28 @@ class Bio extends Developer {
     role     = 'Back-End Developer';
     email    = 'erho@duck.com';
     location = 'Agri, Turkey';
-    website = [
+    websites = [
         { name: 'Portfolio', url: 'https://erhanurgun.com.tr' },
         { name: 'Company',   url: 'https://orizora.com' },
-        { name: 'Blog',      url: 'https://erho.dev' }
+        { name: 'Blog',      url: 'https://erho.dev' },
+        { name: 'LinkTree',  url: 'https://linktr.ee/erhanurgun' }
     ];
-    social = [
+    socials  = [
         { name: 'Twitter',   url: 'https://twitter.com/erhanurgun' },
         { name: 'LinkedIn',  url: 'https://linkedin.com/in/erhanurgun' }
     ];
 }
 
 class Skills extends Developer {
-    languages  = ['PHP', 'NodeJS', 'JavaScript', ...Languages];
-    databases  = ['MySQL', 'MsSQL', 'MongoDB', ...Databases];
-    frameworks = ['Laravel', 'AdonisJS', ...Frameworks];
+    languages  = ['PHP', 'NodeJS', 'JavaScript', ...Language];
+    databases  = ['MySQL', 'MsSQL', 'MongoDB', ...Database];
+    frameworks = ['Laravel', 'AdonisJS', ...Framework];
     api        = ['RESTful API', /*'GraphQL', 'gRPC'*/, ...Api];
     server     = ['Apache', 'Nginx', ...Server];
     // caching = ['Redis', 'Memcached', ...Caching];
     // devops  = ['Jenkins', 'CI/CD', 'Kubernetes', ...DevOps];
-    cloud      = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
-    other      = ['AI', 'Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', ...Other];
+    clouds     = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
+    others     = ['AI', 'Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', ...Other];
 }
 
 export default () => new Developer(Bio, Skills);
