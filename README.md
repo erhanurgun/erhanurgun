@@ -24,6 +24,12 @@
     </a>
 </div>
 
+<div id="images">
+  <a href="https://erhanurgun.com.tr" target="_blank">
+    <img src="https://erhanurgun.com.tr/assets/webs/_img/svg/codelife-php-if.svg" alt="Bir Yazılımcının Hayatının Özeti"/>
+  </a>
+</div>
+
 ### :man_technologist: Hakkımda Kısaca
 
 ```js
@@ -63,12 +69,6 @@ class Skills extends Developer {
 
 export default () => new Developer(Bio, Skills);
 ```
-
-<div id="images">
-  <a href="https://erhanurgun.com.tr" target="_blank">
-    <img src="https://erhanurgun.com.tr/assets/webs/_img/svg/codelife-php-if.svg" alt="Bir Yazılımcının Hayatının Özeti"/>
-  </a>
-</div>
 
 ### :fire: İstatistiklerim
 
