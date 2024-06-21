@@ -57,7 +57,7 @@ class Skills extends Developer {
     // caching = ['Redis', 'Memcached', ...Caching];
     // devops  = ['Jenkins', 'CI/CD', 'Kubernetes', ...DevOps];
     cloud      = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
-    other      = ['Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', ...Other];
+    other      = ['AI', 'Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', ...Other];
 }
 
 export default () => new Developer(Bio, Skills);
