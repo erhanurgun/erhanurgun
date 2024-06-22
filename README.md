@@ -63,8 +63,8 @@ class Skills extends Developer {
     server     = ['Apache', 'Nginx', ...Server];
     // caching = ['Redis', 'Memcached', ...Caching];
     // devops  = ['Jenkins', 'CI/CD', 'Kubernetes', ...DevOps];
-    clouds     = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
     // mobile  = ['React Native', 'Flutter', ...Mobile];
+    clouds     = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
     others     = ['AI', 'Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', ...Other];
 }
 
