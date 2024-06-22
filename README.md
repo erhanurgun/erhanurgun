@@ -35,9 +35,9 @@
 ```js
 import Developer from 'Orizora';
 import {
-    Language, Database, Framework, Api,
-    Server, Caching, DevOps, Cloud,
-    Game, Dekstop, Mobile, Other
+    Language, Database, Framework, Api, Server,
+    Caching, DevOps, Principle, Methodologi,
+    Cloud, Game, Dekstop, Mobile, Other
 } from 'Orizora/Skills';
 
 class Bio extends Developer {
@@ -58,18 +58,20 @@ class Bio extends Developer {
 }
 
 class Skills extends Developer {
-    languages  = ['PHP', 'NodeJS', 'JavaScript', 'C#', ...Language];
-    databases  = ['MySQL', 'MsSQL', 'MongoDB', ...Database];
-    frameworks = ['Laravel', 'AdonisJS', ...Framework];
-    api        = ['RESTful API', /*'GraphQL', 'gRPC'*/, ...Api];
-    server     = ['Apache', 'Nginx', ...Server];
-    // caching = ['Redis', 'Memcached', ...Caching];
-    // devops  = ['Jenkins', 'CI/CD', 'Kubernetes', ...DevOps];
-    // mobile  = ['React Native', 'Flutter', ...Mobile];
-    // games   = ['Unreal Engine', 'Unity', ...Game];
-    // desktop = ['ElectronJS', ...Desktop];
-    clouds     = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
-    others     = ['AI', 'Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', 'Cloudflare', ...Other];
+    languages     = ['PHP', 'NodeJS', 'JavaScript', 'C#', ...Language];
+    databases     = ['MySQL', 'MsSQL', 'MongoDB', ...Database];
+    frameworks    = ['Laravel', 'AdonisJS', ...Framework];
+    api           = ['RESTful API', /*'GraphQL', 'gRPC'*/, ...Api];
+    server        = ['Apache', 'Nginx', ...Server];
+    // caching    = ['Redis', 'Memcached', ...Caching];
+    // devops     = ['Jenkins', 'CI/CD', 'Kubernetes', ...DevOps];
+    // mobile     = ['React Native', 'Flutter', ...Mobile];
+    // games      = ['Unreal Engine', 'Unity', ...Game];
+    // desktop    = ['ElectronJS', ...Desktop];
+    principles    = ['SOLID', 'DRY', /*'TDD'*/ ...Principle];
+    methodologies = ['Kanban', 'Gannt', /*'Scrum', 'Agile'*/, ...Methodologi];
+    clouds        = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
+    others        = ['AI', 'Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', 'Cloudflare', ...Other];
 }
 
 export default () => new Developer(Bio, Skills);
