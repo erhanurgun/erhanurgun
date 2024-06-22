@@ -58,7 +58,7 @@ class Bio extends Developer {
 }
 
 class Skills extends Developer {
-    languages  = ['PHP', 'NodeJS', 'JavaScript', ...Language];
+    languages  = ['PHP', 'NodeJS', 'JavaScript', 'C#', ...Language];
     databases  = ['MySQL', 'MsSQL', 'MongoDB', ...Database];
     frameworks = ['Laravel', 'AdonisJS', ...Framework];
     api        = ['RESTful API', /*'GraphQL', 'gRPC'*/, ...Api];
@@ -67,7 +67,7 @@ class Skills extends Developer {
     // devops  = ['Jenkins', 'CI/CD', 'Kubernetes', ...DevOps];
     // mobile  = ['React Native', 'Flutter', ...Mobile];
     // games   = ['Unreal Engine', 'Unity', ...Game];
-    desktop    = ['C#', /*'ElectronJS'*/, ...Desktop];
+    // desktop = ['ElectronJS', ...Desktop];
     clouds     = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
     others     = ['AI', 'Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', ...Other];
 }
