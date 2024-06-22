@@ -69,7 +69,7 @@ class Skills extends Developer {
     // games   = ['Unreal Engine', 'Unity', ...Game];
     // desktop = ['ElectronJS', ...Desktop];
     clouds     = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
-    others     = ['AI', 'Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', ...Other];
+    others     = ['AI', 'Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', 'Cloudflare', ...Other];
 }
 
 export default () => new Developer(Bio, Skills);
