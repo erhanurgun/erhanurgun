@@ -35,7 +35,9 @@
 ```js
 import Developer from 'Orizora';
 import {
-    Language, Database, Framework, Api, Server, Caching, DevOps, Cloud, Mobile, Other
+    Language, Database, Framework, Api,
+    Server, Caching, DevOps, Cloud,
+    Game, Dekstop, Mobile, Other
 } from 'Orizora/Skills';
 
 class Bio extends Developer {
@@ -64,6 +66,8 @@ class Skills extends Developer {
     // caching = ['Redis', 'Memcached', ...Caching];
     // devops  = ['Jenkins', 'CI/CD', 'Kubernetes', ...DevOps];
     // mobile  = ['React Native', 'Flutter', ...Mobile];
+    // games   = ['Unreal Engine', 'Unity', ...Game];
+    desktop    = ['C#', /*'ElectronJS'*/, ...Desktop];
     clouds     = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
     others     = ['AI', 'Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', ...Other];
 }
