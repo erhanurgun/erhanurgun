@@ -71,7 +71,7 @@ class Skills extends Developer {
     principles    = ['SOLID', 'DRY', /*'TDD'*/ ...Principle];
     methodologies = ['Kanban', 'Gannt', /*'Scrum', 'Agile'*/, ...Methodologi];
     clouds        = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
-    others        = ['AI', 'Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', 'Cloudflare', ...Other];
+    others        = ['AI', 'Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', 'Cloudflare', 'Firebase', ...Other];
 }
 
 export default () => new Developer(Bio, Skills);
