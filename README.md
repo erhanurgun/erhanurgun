@@ -36,7 +36,7 @@
 import Developer from 'Orizora';
 import {
     Language, Database, Framework, Api, Server,
-    Caching, DevOps, Principle, Methodologi,
+    Caching, DevOps, Principle, Methodology,
     Cloud, Game, Dekstop, Mobile, Other
 } from 'Orizora/Skills';
 
@@ -69,7 +69,7 @@ class Skills extends Developer {
     // games      = ['Unreal Engine', 'Unity', ...Game];
     // desktop    = ['ElectronJS', ...Desktop];
     principles    = ['SOLID', 'DRY', /*'TDD'*/ ...Principle];
-    methodologies = ['Kanban', 'Gannt', /*'Scrum', 'Agile'*/, ...Methodologi];
+    methodologies = ['Kanban', 'Gannt', /*'Scrum', 'Agile'*/, ...Methodology];
     clouds        = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
     others        = ['AI', 'Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', 'Cloudflare', /*'Firebase'*/, ...Other];
 }
