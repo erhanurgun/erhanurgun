@@ -58,9 +58,9 @@ class Bio extends Developer {
 }
 
 class Skills extends Developer {
-    languages     = ['PHP', 'NodeJS', 'JavaScript', 'C#', ...Language];
+    languages     = ['PHP', 'NodeJS', 'JavaScript', /*'Python', 'C#',*/ ...Language];
     databases     = ['MySQL', 'MsSQL', 'MongoDB', /*'Elasticsearch',*/ ...Database];
-    frameworks    = ['Laravel', 'AdonisJS', ...Framework];
+    frameworks    = ['Laravel', 'AdonisJS', 'Django', ...Framework];
     api           = ['RESTful API', /*'GraphQL', 'gRPC'*/, ...Api];
     server        = ['Apache', 'Nginx', ...Server];
     // caching    = ['Redis', 'Memcached', ...Caching];
