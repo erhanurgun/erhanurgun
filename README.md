@@ -52,7 +52,7 @@ class Bio extends Developer {
         { name: 'LinkTree',  url: 'https://linktr.ee/erhanurgun' }
     ];
     socials  = [
-        // { name: 'YouTube',  url: 'https://youtube.com/@erho_dev?sub_confirmation=1' },
+        // { name: 'YouTube',  url: 'https://youtube.com/@erho_dev' },
         { name: 'LinkedIn',  url: 'https://linkedin.com/in/erhanurgun' },
         { name: 'Twitter',   url: 'https://twitter.com/erhanurgun' }
     ];
