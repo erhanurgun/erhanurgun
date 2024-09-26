@@ -53,6 +53,7 @@ class Bio extends Developer {
     socials  = [
         // { name: 'YouTube',  url: 'https://youtube.com/@erho_dev' },
         { name: 'LinkedIn', url: 'https://linkedin.com/in/erhanurgun' },
+        { name: 'Instagram', url: 'https://instagram.com/erho.dev' },
         { name: 'Twitter',  url: 'https://twitter.com/erhanurgun' }
     ];
 }
