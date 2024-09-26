@@ -37,7 +37,7 @@ import Developer from 'Orizora';
 import {
     Language, Database, Framework, Api, Server,
     Caching, DevOps, Principle, Methodology,
-    Cloud, Game, Dekstop, Mobile,
+    Cloud, Game, Desktop, Mobile,
     SearchEngine, Other
 } from 'Orizora/Skills';
 
@@ -45,7 +45,6 @@ class Bio extends Developer {
     name     = 'Erhan ÜRGÜN';
     role     = 'Back-End Developer';
     email    = 'erho@duck.com';
-    location = 'Agri, Turkey';
     websites = [
         { name: 'Portfolio', url: 'https://erhanurgun.tr' },
         // { name: 'Company',   url: 'https://orizora.com' },
@@ -54,8 +53,8 @@ class Bio extends Developer {
     ];
     socials  = [
         // { name: 'YouTube',  url: 'https://youtube.com/@erho_dev' },
-        { name: 'LinkedIn',  url: 'https://linkedin.com/in/erhanurgun' },
-        { name: 'Twitter',   url: 'https://twitter.com/erhanurgun' }
+        { name: 'LinkedIn', url: 'https://linkedin.com/in/erhanurgun' },
+        { name: 'Twitter',  url: 'https://twitter.com/erhanurgun' }
     ];
 }
 
@@ -71,13 +70,13 @@ class Skills extends Developer {
     // games      = ['Unreal Engine', 'Unity', ...Game];
     // desktop    = ['ElectronJS', ...Desktop];
     principles    = ['SOLID', 'DRY', /*'TDD'*/ ...Principle];
-    methodologies = ['Kanban', 'Gannt', /*'Scrum', 'Agile'*/, ...Methodology];
+    methodologies = ['Kanban', 'Gantt', /*'Scrum', 'Agile'*/, ...Methodology];
     clouds        = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
     searchEngines = [/*'Elasticsearch', 'Algolia',*/ ...SearchEngine];
-    others        = ['AI', 'Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', 'Cloudflare', /*'Firebase'*/, ...Other];
+    others        = ['AI', 'Git', 'Docker', 'Linux', 'cPanel', 'Plesk', 'Cloudflare', /*'Firebase'*/, ...Other];
 }
 
-export default () => new Developer(Bio, Skills);
+export default () => new Developer(new Bio(), new Skills());
 ```
 
 ### :fire: İstatistiklerim
