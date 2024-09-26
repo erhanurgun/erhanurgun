@@ -46,8 +46,8 @@ class Bio extends Developer {
     email    = 'erho@duck.com';
     location = 'Agri, Turkey';
     websites = [
-        { name: 'Portfolio', url: 'https://erhanurgun.com.tr' },
-        { name: 'Company',   url: 'https://orizora.com' },
+        { name: 'Portfolio', url: 'https://erhanurgun.tr' },
+        // { name: 'Company',   url: 'https://orizora.com' },
         { name: 'Blog',      url: 'https://erho.dev' },
         { name: 'LinkTree',  url: 'https://linktr.ee/erhanurgun' }
     ];
