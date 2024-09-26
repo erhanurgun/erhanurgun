@@ -48,12 +48,13 @@ class Bio extends Developer {
     websites = [
         { name: 'Portfolio', url: 'https://erhanurgun.tr' },
         // { name: 'Company',   url: 'https://orizora.com' },
-        { name: 'Blog',      url: 'https://erho.dev' },
+        // { name: 'Blog',      url: 'https://erho.dev' },
         { name: 'LinkTree',  url: 'https://linktr.ee/erhanurgun' }
     ];
     socials  = [
-        { name: 'Twitter',   url: 'https://twitter.com/erhanurgun' },
-        { name: 'LinkedIn',  url: 'https://linkedin.com/in/erhanurgun' }
+        // { name: 'YouTube',  url: 'https://youtube.com/@erho_dev?sub_confirmation=1' },
+        { name: 'LinkedIn',  url: 'https://linkedin.com/in/erhanurgun' },
+        { name: 'Twitter',   url: 'https://twitter.com/erhanurgun' }
     ];
 }
 
