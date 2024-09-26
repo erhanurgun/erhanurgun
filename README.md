@@ -37,7 +37,8 @@ import Developer from 'Orizora';
 import {
     Language, Database, Framework, Api, Server,
     Caching, DevOps, Principle, Methodology,
-    Cloud, Game, Dekstop, Mobile, Other
+    Cloud, Game, Dekstop, Mobile,
+    SearchEngine, Other
 } from 'Orizora/Skills';
 
 class Bio extends Developer {
@@ -72,6 +73,7 @@ class Skills extends Developer {
     principles    = ['SOLID', 'DRY', /*'TDD'*/ ...Principle];
     methodologies = ['Kanban', 'Gannt', /*'Scrum', 'Agile'*/, ...Methodology];
     clouds        = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
+    searchEngines = [/*'Elasticsearch', 'Algolia',*/ ...SearchEngine];
     others        = ['AI', 'Git', 'Docker', 'Linux', 'Cpanel', 'Plesk', 'Cloudflare', /*'Firebase'*/, ...Other];
 }
 
