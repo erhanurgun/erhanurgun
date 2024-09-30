@@ -35,8 +35,8 @@
 ```js
 import Developer from 'Orizora';
 import {
-    Language, Database, Framework, Api, Server,
-    Caching, DevOps, Mobile, Game, Desktop, 
+    Language, Database, Framework, FrontendTool,
+    Api, Server, Caching, DevOps, Mobile, Game, Desktop, 
     Principle, Methodology, SearchEngine, Cloud, Other
 } from 'Orizora/Skills';
 
@@ -60,8 +60,9 @@ class Bio extends Developer {
 
 class Skills extends Developer {
     languages     = ['PHP', 'NodeJS', 'JavaScript', /*'Python', 'C#',*/ ...Language];
-    databases     = ['MySQL', 'MsSQL', 'MongoDB', ...Database];
+    databases     = ['MySQL', 'MsSQL', 'SQLite', /*'PostgreSQL', 'MongoDB'*/, ...Database];
     frameworks    = ['Laravel', 'AdonisJS', /*'Django',*/ ...Framework];
+    frontendTools = ['TailwindCSS', 'Bootstrap', 'Livewire', /*'AlpineJS',*/ ...FrontendTool]; 
     api           = ['RESTful API', /*'GraphQL', 'gRPC'*/, ...Api];
     server        = ['Apache', 'Nginx', /*'RabbitMQ',*/ ...Server];
     // caching    = ['Redis', 'Memcached', ...Caching];
