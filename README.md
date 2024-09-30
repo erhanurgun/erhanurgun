@@ -62,13 +62,13 @@ class Skills extends Developer {
     languages     = ['PHP', 'NodeJS', 'JavaScript', /*'Python', 'C#',*/ ...Language];
     databases     = ['MySQL', 'MsSQL', 'SQLite', /*'PostgreSQL', 'MongoDB',*/ ...Database];
     frameworks    = ['Laravel', 'AdonisJS', 'Livewire', /*'Django',*/ ...Framework];
-    frontendTools = ['TailwindCSS', 'Bootstrap', /*'AlpineJS', 'Bulma',*/ ...FrontendTool]; 
+    frontendTools = ['TailwindCSS', 'Bootstrap', /*'React', 'AlpineJS', 'Bulma', 'SASS',*/ ...FrontendTool]; 
     api           = ['RESTful API', /*'GraphQL', 'gRPC',*/ ...Api];
     server        = ['Apache', 'Nginx', /*'RabbitMQ',*/ ...Server];
     devOps        = ['Docker', /*'Jenkins', 'CI/CD', 'Kubernetes',*/ ...DevOps];
     // caching    = ['Redis', 'Memcached', ...Caching];
     // mobile     = ['React Native', 'Flutter', ...Mobile];
-    // games      = ['Unreal Engine', 'Unity', ...Game];
+    // games      = ['Unity', 'Unreal Engine', ...Game];
     // desktop    = ['ElectronJS', ...Desktop];
     principles    = ['SOLID', 'DRY', /*'TDD',*/ ...Principle];
     methodologies = ['Kanban', 'Gantt', /*'Scrum', 'Agile',*/ ...Methodology];
