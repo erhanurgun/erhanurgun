@@ -43,7 +43,7 @@ import {
 class Bio extends Developer {
     name     = 'Erhan ÜRGÜN';
     role     = 'Back-End Developer';
-    email    = 'erho@duck.com';
+    email    = 'erho.dev@gmail.com';
     websites = [
         { name: 'Portfolio', url: 'https://erhanurgun.tr' },
         // { name: 'Company',   url: 'https://orizora.com' },
