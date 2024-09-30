@@ -61,12 +61,12 @@ class Bio extends Developer {
 class Skills extends Developer {
     languages     = ['PHP', 'NodeJS', 'JavaScript', /*'Python', 'C#',*/ ...Language];
     databases     = ['MySQL', 'MsSQL', 'SQLite', /*'PostgreSQL', 'MongoDB'*/, ...Database];
-    frameworks    = ['Laravel', 'AdonisJS', /*'Django',*/ ...Framework];
-    frontendTools = ['TailwindCSS', 'Bootstrap', 'Livewire', /*'AlpineJS', 'Bulma',*/ ...FrontendTool]; 
+    frameworks    = ['Laravel', 'AdonisJS', 'Livewire', /*'Django',*/ ...Framework];
+    frontendTools = ['TailwindCSS', 'Bootstrap', /*'AlpineJS', 'Bulma',*/ ...FrontendTool]; 
     api           = ['RESTful API', /*'GraphQL', 'gRPC'*/, ...Api];
     server        = ['Apache', 'Nginx', /*'RabbitMQ',*/ ...Server];
     // caching    = ['Redis', 'Memcached', ...Caching];
-    // devops     = ['Jenkins', 'CI/CD', 'Kubernetes', ...DevOps];
+    // devOps     = ['Jenkins', 'CI/CD', 'Kubernetes', 'Docker', ...DevOps];
     // mobile     = ['React Native', 'Flutter', ...Mobile];
     // games      = ['Unreal Engine', 'Unity', ...Game];
     // desktop    = ['ElectronJS', ...Desktop];
@@ -74,7 +74,7 @@ class Skills extends Developer {
     methodologies = ['Kanban', 'Gantt', /*'Scrum', 'Agile'*/, ...Methodology];
     searchEngines = [/*'Elasticsearch', 'Algolia',*/ ...SearchEngine];
     clouds        = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
-    others        = ['AI', 'Git', 'Docker', 'Linux', 'cPanel', 'Plesk', 'Cloudflare', /*'Firebase'*/, ...Other];
+    others        = ['AI', 'Git', 'Linux', 'cPanel', 'Plesk', 'Cloudflare', /*'Firebase'*/, ...Other];
 }
 
 export default () => new Developer(new Bio(), new Skills());
