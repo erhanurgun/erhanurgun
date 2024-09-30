@@ -36,7 +36,7 @@
 import Developer from 'Orizora';
 import {
     Language, Database, Framework, FrontendTool,
-    Api, Server, Caching, DevOps, Mobile, Game, Desktop, 
+    Api, Server, DevOps, Caching, Mobile, Game, Desktop, 
     Principle, Methodology, SearchEngine, Cloud, Other
 } from 'Orizora/Skills';
 
@@ -65,8 +65,8 @@ class Skills extends Developer {
     frontendTools = ['TailwindCSS', 'Bootstrap', /*'AlpineJS', 'Bulma',*/ ...FrontendTool]; 
     api           = ['RESTful API', /*'GraphQL', 'gRPC'*/, ...Api];
     server        = ['Apache', 'Nginx', /*'RabbitMQ',*/ ...Server];
+    devOps        = ['Docker', /*'Jenkins', 'CI/CD', 'Kubernetes',*/ ...DevOps];
     // caching    = ['Redis', 'Memcached', ...Caching];
-    // devOps     = ['Jenkins', 'CI/CD', 'Kubernetes', 'Docker', ...DevOps];
     // mobile     = ['React Native', 'Flutter', ...Mobile];
     // games      = ['Unreal Engine', 'Unity', ...Game];
     // desktop    = ['ElectronJS', ...Desktop];
