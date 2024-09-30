@@ -60,21 +60,21 @@ class Bio extends Developer {
 
 class Skills extends Developer {
     languages     = ['PHP', 'NodeJS', 'JavaScript', /*'Python', 'C#',*/ ...Language];
-    databases     = ['MySQL', 'MsSQL', 'SQLite', /*'PostgreSQL', 'MongoDB'*/, ...Database];
+    databases     = ['MySQL', 'MsSQL', 'SQLite', /*'PostgreSQL', 'MongoDB',*/ ...Database];
     frameworks    = ['Laravel', 'AdonisJS', 'Livewire', /*'Django',*/ ...Framework];
     frontendTools = ['TailwindCSS', 'Bootstrap', /*'AlpineJS', 'Bulma',*/ ...FrontendTool]; 
-    api           = ['RESTful API', /*'GraphQL', 'gRPC'*/, ...Api];
+    api           = ['RESTful API', /*'GraphQL', 'gRPC',*/ ...Api];
     server        = ['Apache', 'Nginx', /*'RabbitMQ',*/ ...Server];
     devOps        = ['Docker', /*'Jenkins', 'CI/CD', 'Kubernetes',*/ ...DevOps];
     // caching    = ['Redis', 'Memcached', ...Caching];
     // mobile     = ['React Native', 'Flutter', ...Mobile];
     // games      = ['Unreal Engine', 'Unity', ...Game];
     // desktop    = ['ElectronJS', ...Desktop];
-    principles    = ['SOLID', 'DRY', /*'TDD'*/ ...Principle];
-    methodologies = ['Kanban', 'Gantt', /*'Scrum', 'Agile'*/, ...Methodology];
+    principles    = ['SOLID', 'DRY', /*'TDD',*/ ...Principle];
+    methodologies = ['Kanban', 'Gantt', /*'Scrum', 'Agile',*/ ...Methodology];
     searchEngines = [/*'Elasticsearch', 'Algolia',*/ ...SearchEngine];
-    clouds        = [/*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean'*/, 'Hetzner Cloud', ...Cloud];
-    others        = ['AI', 'Git', 'Linux', 'cPanel', 'Plesk', 'Cloudflare', /*'Firebase'*/, ...Other];
+    clouds        = ['Hetzner Cloud', /*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean',*/ ...Cloud];
+    others        = ['AI', 'Git', 'Linux', 'cPanel', 'Plesk', 'Cloudflare', /*'Firebase',*/ ...Other];
 }
 
 export default () => new Developer(new Bio(), new Skills());
