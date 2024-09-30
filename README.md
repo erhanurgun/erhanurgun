@@ -63,7 +63,7 @@ class Skills extends Developer {
     databases     = ['MySQL', 'MsSQL', 'MongoDB', ...Database];
     frameworks    = ['Laravel', 'AdonisJS', 'Django', ...Framework];
     api           = ['RESTful API', /*'GraphQL', 'gRPC'*/, ...Api];
-    server        = ['Apache', 'Nginx', ...Server];
+    server        = ['Apache', 'Nginx', 'RabbitMQ', ...Server];
     // caching    = ['Redis', 'Memcached', ...Caching];
     // devops     = ['Jenkins', 'CI/CD', 'Kubernetes', ...DevOps];
     // mobile     = ['React Native', 'Flutter', ...Mobile];
