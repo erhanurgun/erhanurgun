@@ -46,12 +46,13 @@ class Bio extends Developer {
     email    = 'erho.dev@gmail.com';
     websites = [
         { name: 'Portfolio', url: 'https://erhanurgun.tr' },
-        // { name: 'Company',   url: 'https://orizora.com' },
-        // { name: 'Blog',      url: 'https://erho.dev' },
-        { name: 'LinkTree',  url: 'https://linktr.ee/erhanurgun' }
+        // { name: 'Company', url: 'https://orizora.com' },
+        { name: 'Blog', url: 'https://erho.dev' },
+        { name: 'Bağlantılarım',  url: 'https://erho.me' },
+        { name: 'LinkTree',  url: 'https://linktr.ee/erhanurgun' },
     ];
     socials  = [
-        // { name: 'YouTube',  url: 'https://youtube.com/@erho_dev' },
+        // { name: 'YouTube', url: 'https://youtube.com/@erho_dev' },
         { name: 'LinkedIn', url: 'https://linkedin.com/in/erhanurgun' },
         { name: 'Instagram', url: 'https://instagram.com/erho.dev' },
         { name: 'Twitter',  url: 'https://twitter.com/erhanurgun' }
