@@ -93,21 +93,21 @@ export default () => new Developer(new Bio(), new Skills());
   <img src="./devcard.svg" width="400" alt="Erhan ÜRGÜN's Dev Card"/>
 </a><br><br>
 
-<a href="https://app.daily.dev/erhanurgun" target="_blank">
+<!-- <a href="https://app.daily.dev/erhanurgun" target="_blank">
   <img src="./img/daily.dev/November 2024 Top Reader in Docker.png" width="400" alt="Erhan ÜRGÜN's Dev Card - Badge"/>
 </a><br><br>
 
-<!-- <a href="https://app.daily.dev/erhanurgun" target="_blank">
+<a href="https://app.daily.dev/erhanurgun" target="_blank">
   <img src="./img/daily.dev/October 2024 Top Reader in WebSocket.png" width="400" alt="Erhan ÜRGÜN's Dev Card - Badge"/>
 </a><br><br>
 
 <a href="https://codersclub.co/tr/dev/erhanurgun" target="_blank">
   <img style="width:404px;height:666px;border-radius:20px" src="./img/codersclub.png" alt="codersclub badge large" />
-</a><br><br>
+</a><br><br> -->
 
 <a href="https://www.codewars.com/users/erhanurgun" target="_blank">
   <img src="https://www.codewars.com/users/erhanurgun/badges/large" alt="codewars badge large" />
-</a><br><br> -->
+</a><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erhanurgun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
