@@ -86,7 +86,6 @@ export default () => new Developer(new Bio(), new Skills());
 <div id="github_stats" align="center">
 
 <img src="img/postspark.app/ss_github.png" alt="Erhan ÜRGÜN's github Card - Badge"/>
-<br><br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erhanurgun&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
