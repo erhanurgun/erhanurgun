@@ -71,7 +71,7 @@ class Skills extends Developer {
     // mobile     = ['React Native', 'Flutter', ...Mobile];
     // games      = ['Unity', 'Unreal Engine', ...Game];
     // desktop    = ['ElectronJS', ...Desktop];
-    principles    = ['SOLID', 'DRY', /*'TDD',*/ ...Principle];
+    principles    = ['SOLID', 'DRY', 'SRP', /*'TDD',*/ ...Principle];
     methodologies = ['Kanban', 'Gantt', /*'Scrum', 'Agile',*/ ...Methodology];
     searchEngines = [/*'Elasticsearch', 'Algolia',*/ ...SearchEngine];
     clouds        = ['Hetzner Cloud', /*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean',*/ ...Cloud];
