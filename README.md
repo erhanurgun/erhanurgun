@@ -127,6 +127,17 @@ export default () => new Developer(new Bio(), new Skills());
 
 </div>
 
+<!-- https://animatedimages.org -->
+<div align="center">
+
+<img src="./img/gif/hard-coding.gif" alt="Hard Coding" width="266"/>
+
+<!-- <img src="./img/gif/chess.gif" alt="Hard Coding" width="266"/> -->
+
+<!-- <img src="./img/gif/cat.gif" alt="Hard Coding" width="266"/> -->
+
+</div>
+
 <div id="badges">
   + Hakkımdaki detaylar zamanla güncellenecektir...
   <br>
