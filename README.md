@@ -138,6 +138,8 @@ export default () => new Developer(new Bio(), new Skills());
 
 </div>
 
+<hr>
+
 <div id="badges">
   + Hakkımdaki detaylar zamanla güncellenecektir...
   <br>
