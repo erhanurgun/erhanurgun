@@ -95,21 +95,27 @@ export default () => new Developer(new Bio(), new Skills());
   <img src="./devcard.svg" width="400" alt="Erhan ÜRGÜN's Dev Card"/>
 </a><br><br>
 
-<!-- <a href="https://app.daily.dev/erhanurgun" target="_blank">
-  <img src="./img/daily.dev/November 2024 Top Reader in Docker.png" width="400" alt="Erhan ÜRGÜN's Dev Card - Badge"/>
-</a><br><br>
+<!-- 
+<a href="https://codersclub.co/tr/dev/erhanurgun" target="_blank">
+  <img style="width:404px;height:666px;border-radius:20px" src="./img/codersclub.png" alt="codersclub badge large" />
+</a><br><br> 
 
 <a href="https://app.daily.dev/erhanurgun" target="_blank">
   <img src="./img/daily.dev/October 2024 Top Reader in WebSocket.png" width="400" alt="Erhan ÜRGÜN's Dev Card - Badge"/>
 </a><br><br>
 
 <a href="https://app.daily.dev/erhanurgun" target="_blank">
+  <img src="./img/daily.dev/November 2024 Top Reader in Docker.png" width="400" alt="Erhan ÜRGÜN's Dev Card - Badge"/>
+</a><br><br>
+
+<a href="https://app.daily.dev/erhanurgun" target="_blank">
   <img src="./img/daily.dev/December 2024 Top Reader in Open Source.png" width="400" alt="Erhan ÜRGÜN's Dev Card - Badge"/>
 </a><br><br>
 
-<a href="https://codersclub.co/tr/dev/erhanurgun" target="_blank">
-  <img style="width:404px;height:666px;border-radius:20px" src="./img/codersclub.png" alt="codersclub badge large" />
-</a><br><br> -->
+<a href="https://app.daily.dev/erhanurgun" target="_blank">
+  <img src="./img/daily.dev/January 2025 Top Reader in Docker.png" width="400" alt="Erhan ÜRGÜN's Dev Card - Badge"/>
+</a><br><br>
+-->
 
 <a href="https://www.codewars.com/users/erhanurgun" target="_blank">
   <img src="https://www.codewars.com/users/erhanurgun/badges/large" alt="codewars badge large" />
@@ -143,8 +149,8 @@ export default () => new Developer(new Bio(), new Skills());
 <div id="badges">
   + Hakkımdaki detaylar zamanla güncellenecektir...
   <br>
-  + Daha fazla bilgi için 
+  + Daha fazla bilgi için
   <a href="https://erho.me" target="_blank" title="Links">erho.me</a>'den veya
-  <a href="https://erho.social" target="_blank" title="Links">erho.social</a>'dan 
+  <a href="https://erho.social" target="_blank" title="Links">erho.social</a>'dan
   bütün bağlantılarıma ulaşabilirsiniz...
 </div>
