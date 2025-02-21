@@ -131,6 +131,9 @@ export default () => new Developer(new Bio(), new Skills());
   <img src="https://img.shields.io/liberapay/receives/erhanurgun.svg?logo=liberapay">
 </a><br><br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=erhanurgun&color=2695ec)
+<br><br>
+
 </div>
 
 <!-- https://animatedimages.org -->
