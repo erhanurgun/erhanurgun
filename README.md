@@ -89,9 +89,11 @@ export default () => new Developer(new Bio(), new Skills());
 
 ![Snake Animation](https://raw.githubusercontent.com/erhanurgun/erhanurgun/output/github-contribution-grid-snake.svg)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erhanurgun&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e3040aced78d2935342aeb?variant=dark&roadmaps=backend%2Cnodejs%2Csql%2Cjavascript)](https://roadmap.sh)
+
+[![LeetCode](https://leetcard.jacoblin.cool/erhanurgun?ext=activity)](https://leetcode.com/u/erhanurgun)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erhanurgun&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <a href="https://app.daily.dev/erhanurgun" target="_blank">
   <img src="./devcard.svg" width="400" alt="Erhan ÜRGÜN's Dev Card"/>
