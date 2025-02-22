@@ -85,7 +85,7 @@ export default () => new Developer(new Bio(), new Skills());
 
 <div id="github_stats" align="center">
 
-<img src="img/postspark.app/ss_github-stats.png" alt="Erhan ÜRGÜN's github Card - Badge"/>
+<!-- <img src="img/postspark.app/ss_github-stats.png" alt="Erhan ÜRGÜN's github Card - Badge"/> -->
 
 ![Snake Animation](https://raw.githubusercontent.com/erhanurgun/erhanurgun/output/github-contribution-grid-snake.svg)
 
