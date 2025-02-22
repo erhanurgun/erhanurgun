@@ -87,6 +87,8 @@ export default () => new Developer(new Bio(), new Skills());
 
 <img src="img/postspark.app/ss_github-stats.png" alt="Erhan ÜRGÜN's github Card - Badge"/>
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erhanurgun&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e3040aced78d2935342aeb?variant=dark&roadmaps=backend%2Cnodejs%2Csql%2Cjavascript)](https://roadmap.sh)
