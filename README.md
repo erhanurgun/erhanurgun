@@ -93,7 +93,7 @@ export default () => new Developer(new Bio(), new Skills());
 
 [![LeetCode](https://leetcard.jacoblin.cool/erhanurgun?ext=activity)](https://leetcode.com/u/erhanurgun)
 
-[![GitHub Streak](https://erho-github-stats.vercel.app?user=erhanurgun&theme=dark&hide_border=true&locale=tr&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=erhanurgun&theme=dark&locale=tr)](https://git.io/streak-stats)
 
 <a href="https://app.daily.dev/erhanurgun" target="_blank">
   <img src="./devcard.svg" width="400" alt="Erhan ÜRGÜN's Dev Card"/>
