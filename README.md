@@ -46,36 +46,36 @@ class Bio extends Developer {
     email    = 'erho.dev@gmail.com';
     websites = [
         { name: 'Portfolio', url: 'https://erhanurgun.tr' },
-        // { name: 'Company', url: 'https://orizora.com' },
+        { name: 'Company', url: 'https://orizora.com' },
         { name: 'Blog', url: 'https://erho.dev' },
-        { name: 'Bağlantılarım',  url: 'https://erho.me' },
-        { name: 'LinkTree',  url: 'https://linktr.ee/erhanurgun' },
+        { name: 'Bağlantılarım', url: 'https://erho.me' },
+        { name: 'LinkTree', url: 'https://linktr.ee/erhanurgun' }
     ];
-    socials  = [
+    socials = [
         { name: 'YouTube', url: 'https://youtube.com/@erhodev' },
         { name: 'LinkedIn', url: 'https://linkedin.com/in/erhanurgun' },
         { name: 'Instagram', url: 'https://instagram.com/erho.dev' },
-        { name: 'Twitter',  url: 'https://twitter.com/erhanurgun' }
+        { name: 'Twitter', url: 'https://twitter.com/erhanurgun' }
     ];
 }
 
 class Skills extends Developer {
-    languages     = ['PHP', 'NodeJS', 'JavaScript', /*'Python', 'C#',*/ ...Language];
-    databases     = ['MySQL', 'MsSQL', 'SQLite', /*'PostgreSQL', 'MongoDB', 'Supabase',*/ ...Database];
-    frameworks    = ['Laravel', 'AdonisJS', 'Livewire', /*'Django',*/ ...Framework];
-    frontendTools = ['TailwindCSS', 'Bootstrap', /*'React', 'AlpineJS', 'Bulma', 'SASS',*/ ...FrontendTool]; 
+    languages     = ['PHP', 'JavaScript', 'Node.js', /*'Python', 'C#',*/ ...Language];
+    databases     = ['MySQL', 'MS SQL', 'SQLite', /*'PostgreSQL', 'MongoDB', 'Supabase',*/ ...Database];
+    frameworks    = ['Laravel', 'Adonis.js', 'Filament', /*'NestJS', 'Django',*/ ...Framework];
+    frontendTools = ['Tailwind CSS', 'Bootstrap', /*'React', 'Alpine.js', 'Bulma', 'SASS',*/ ...FrontendTool];
     api           = ['RESTful API', /*'GraphQL', 'gRPC',*/ ...Api];
     server        = ['Apache', 'Nginx', /*'RabbitMQ',*/ ...Server];
     devOps        = ['Docker', /*'Jenkins', 'CI/CD', 'Kubernetes',*/ ...DevOps];
     // caching    = ['Redis', 'Memcached', ...Caching];
     // mobile     = ['React Native', 'Flutter', ...Mobile];
     // games      = ['Unity', 'Unreal Engine', ...Game];
-    // desktop    = ['ElectronJS', ...Desktop];
+    // desktop    = ['Electron.js', ...Desktop];
     principles    = ['SOLID', 'DRY', 'SRP', /*'TDD', 'DDD',*/ ...Principle];
     methodologies = ['Kanban', 'Gantt', /*'Scrum', 'Agile',*/ ...Methodology];
     searchEngines = [/*'Elasticsearch', 'Algolia',*/ ...SearchEngine];
     clouds        = ['Hetzner Cloud', /*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean',*/ ...Cloud];
-    others        = ['AI', 'Git', 'Linux', 'cPanel', 'Plesk', 'Cloudflare', /*'Firebase',*/ ...Other];
+    others        = ['AI', 'Git', 'Linux', 'cPanel', 'Plesk', 'Cloudflare', 'TALL Stack', /*'Firebase',*/ ...Other];
 }
 
 export default () => new Developer(new Bio(), new Skills());
