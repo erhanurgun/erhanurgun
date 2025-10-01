@@ -61,7 +61,7 @@ class Bio extends Developer {
 
 class Skills extends Developer {
     languages     = ['PHP', 'NodeJS', 'JavaScript', /*'Python', 'C#',*/ ...Language];
-    databases     = ['MySQL', 'MsSQL', 'SQLite', /*'PostgreSQL', 'MongoDB',*/ ...Database];
+    databases     = ['MySQL', 'MsSQL', 'SQLite', /*'PostgreSQL', 'MongoDB', 'Supabase',*/ ...Database];
     frameworks    = ['Laravel', 'AdonisJS', 'Livewire', /*'Django',*/ ...Framework];
     frontendTools = ['TailwindCSS', 'Bootstrap', /*'React', 'AlpineJS', 'Bulma', 'SASS',*/ ...FrontendTool]; 
     api           = ['RESTful API', /*'GraphQL', 'gRPC',*/ ...Api];
@@ -71,7 +71,7 @@ class Skills extends Developer {
     // mobile     = ['React Native', 'Flutter', ...Mobile];
     // games      = ['Unity', 'Unreal Engine', ...Game];
     // desktop    = ['ElectronJS', ...Desktop];
-    principles    = ['SOLID', 'DRY', 'SRP', /*'TDD',*/ ...Principle];
+    principles    = ['SOLID', 'DRY', 'SRP', /*'TDD', 'DDD',*/ ...Principle];
     methodologies = ['Kanban', 'Gantt', /*'Scrum', 'Agile',*/ ...Methodology];
     searchEngines = [/*'Elasticsearch', 'Algolia',*/ ...SearchEngine];
     clouds        = ['Hetzner Cloud', /*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean',*/ ...Cloud];
