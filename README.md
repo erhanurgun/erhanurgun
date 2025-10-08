@@ -87,13 +87,15 @@ export default () => new Developer(new Bio(), new Skills());
 
 <!-- <img src="img/postspark.app/ss_github-stats.png" alt="Erhan ÜRGÜN's github Card - Badge"/> -->
 
-![Snake Animation](https://raw.githubusercontent.com/erhanurgun/erhanurgun/output/github-contribution-grid-snake.svg)
+[![img1](https://github-readme-activity-graph.vercel.app/graph?username=erhanurgun&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e3040aced78d2935342aeb)](https://roadmap.sh)
+![img2](https://raw.githubusercontent.com/erhanurgun/erhanurgun/output/github-contribution-grid-snake.svg)
 
-[![LeetCode](https://leetcard.jacoblin.cool/erhanurgun?ext=activity)](https://leetcode.com/u/erhanurgun)
+[![img3](https://api.roadmap.sh/v1-badge/wide/64e3040aced78d2935342aeb)](https://roadmap.sh)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=erhanurgun&theme=dark&locale=tr)](https://git.io/streak-stats)
+[![img4](https://leetcard.jacoblin.cool/erhanurgun?ext=activity)](https://leetcode.com/u/erhanurgun)
+
+[![img5](https://streak-stats.demolab.com?user=erhanurgun&theme=dark&locale=tr)](https://git.io/streak-stats)
 
 <a href="https://app.daily.dev/erhanurgun" target="_blank">
   <img src="./devcard.svg" width="400" alt="Erhan ÜRGÜN's Dev Card"/>
