@@ -87,15 +87,15 @@ export default () => new Developer(new Bio(), new Skills());
 
 <!-- <img src="img/postspark.app/ss_github-stats.png" alt="Erhan ÜRGÜN's github Card - Badge"/> -->
 
-[![img1](https://github-readme-activity-graph.vercel.app/graph?username=erhanurgun&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![img1](https://github-readme-activity-graph.vercel.app/graph?username=erhanurgun&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://erho.me)
 
-![img2](https://raw.githubusercontent.com/erhanurgun/erhanurgun/output/github-contribution-grid-snake.svg)
+[![img2](https://raw.githubusercontent.com/erhanurgun/erhanurgun/output/github-contribution-grid-snake.svg)](https://erho.me)
 
-[![img3](https://api.roadmap.sh/v1-badge/wide/64e3040aced78d2935342aeb)](https://roadmap.sh)
+[![img3](https://api.roadmap.sh/v1-badge/wide/64e3040aced78d2935342aeb)](https://erho.me)
 
 [![img4](https://leetcard.jacoblin.cool/erhanurgun?ext=activity)](https://leetcode.com/u/erhanurgun)
 
-[![img5](https://streak-stats.demolab.com?user=erhanurgun&theme=dark&locale=tr)](https://git.io/streak-stats)
+[![img5](https://streak-stats.demolab.com?user=erhanurgun&theme=dark&locale=tr)](https://erho.me)
 
 <a href="https://app.daily.dev/erhanurgun" target="_blank">
   <img src="./devcard.svg" width="400" alt="Erhan ÜRGÜN's Dev Card"/>
@@ -127,7 +127,7 @@ export default () => new Developer(new Bio(), new Skills());
   <img src="https://www.codewars.com/users/erhanurgun/badges/large" alt="codewars badge large" />
 </a><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erhanurgun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erhanurgun&layout=compact&theme=vision-friendly-dark)](https://erho.me)
 
 <a href="https://leetcode.com/erhanurgun" target="_blank">
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Ferhanurgun&logo=leetcode&logoColor=yellow" alt="leetcode badge large" />
