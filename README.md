@@ -1,18 +1,18 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/erhanurgun/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's LinkedIn page"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=x-linkedin&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's LinkedIn page"/>
   </a>
   <a href="https://www.youtube.com/channel/UCsT0QNcU4scQILX8tcYVg2w?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Youtube channel"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=x-youtube&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Youtube channel"/>
   </a>
   <a href="https://twitter.com/erhanurgun" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Twitter page"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x-twitter&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Twitter page"/>
   </a>
   <a href="https://www.instagram.com/erhanurgunn/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Twitter page"/>
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=x-instagram&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Twitter page"/>
   </a>
   <a href="https://www.facebook.com/erhanurgunn" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Facebook page"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=x-facebook&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Facebook page"/>
   </a>
 </div>
 
