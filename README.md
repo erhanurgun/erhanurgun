@@ -1,23 +1,3 @@
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/erhanurgun/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=x-linkedin&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's LinkedIn page"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCsT0QNcU4scQILX8tcYVg2w?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=x-youtube&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Youtube channel"/>
-  </a>
-  <a href="https://twitter.com/erhanurgun" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x-twitter&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Twitter page"/>
-  </a>
-  <a href="https://www.instagram.com/erhanurgunn/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=x-instagram&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Twitter page"/>
-  </a>
-  <a href="https://www.facebook.com/erhanurgunn" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=x-facebook&logoColor=white" alt="Back-End Developer Erhan ÜRGÜN's Facebook page"/>
-  </a>
-</div>
-
-<hr>
-
 <div id="message" align="center">
     <a href="https://git.io/typing-svg" target="_blank">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&random=false&width=780&separator=%3C&lines=Selamlar%2C+github+profilime+ho%C5%9Fgeldiniz...+%F0%9F%91%8B%3CBen+bir+back-end+geli%C5%9Ftiricisiyim.%3C%C4%B0lgi+alan%C4%B1m+daha+%C3%A7ok+RESTful+API+geli%C5%9Ftirme+%C3%BCzerine!%3CS%C3%BCrekli+olarak+kendimi+bu+alanda+geli%C5%9Ftiriyorum...%3CFavorim;+Laravel+ve+AdonisJS+ile+RESTful+API+yazmak...%3CDaha+fazlas%C4%B1+i%C3%A7in+websitelerimi+ziyaret+edebilirsiniz..." alt="Typing SVG" />
