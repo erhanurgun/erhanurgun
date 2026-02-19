@@ -40,7 +40,7 @@ class Bio extends Developer {
 }
 
 class Skills extends Developer {
-    languages     = ['PHP', 'JavaScript', 'Node.js', /*'Python', 'C#',*/ ...Language];
+    languages     = ['PHP', 'JS', 'Node.js', /*'Rust', 'Go','Python', 'C#',*/ ...Language];
     databases     = ['MySQL', 'MS SQL', 'SQLite', /*'PostgreSQL', 'MongoDB', 'Supabase',*/ ...Database];
     frameworks    = ['Laravel', 'Adonis.js', 'Filament', /*'NestJS', 'Django',*/ ...Framework];
     frontendTools = ['Tailwind CSS', 'Bootstrap', /*'React', 'Alpine.js', 'Bulma', 'SASS',*/ ...FrontendTool];
