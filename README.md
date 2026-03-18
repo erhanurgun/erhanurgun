@@ -54,7 +54,7 @@ class Skills extends Developer {
     // desktop    = ['Electron.js', ...Desktop];
     principles    = ['SOLID', 'DRY', 'KISS', 'YANGNI', 'DDD', /*'TDD',*/ ...Principle];
     methodologies = ['Kanban', 'Gantt', /*'Scrum', 'Agile',*/ ...Methodology];
-    searchEngines = [/*'Elasticsearch', 'Algolia',*/ ...SearchEngine];
+    // searchEngines = ['Elasticsearch', 'Algolia', ...SearchEngine];
     clouds        = ['Hetzner Cloud', /*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean',*/ ...Cloud];
     others        = ['AI', 'Git', 'Linux', 'cPanel', 'Plesk', 'Cloudflare', /*'Firebase',*/ ...Other];
 }
