@@ -22,9 +22,9 @@ import {
 
 class Bio extends Developer {
     name     = 'Erhan ÜRGÜN';
+    email    = 'erho@duck.com';
     role     = 'Back-End Developer';
     title    = 'Laravel | AdonisJS | Back-End Developer';
-    email    = 'erho@duck.com';
     websites = [
         { name: 'Portfolyo', url: 'https://erhanurgun.tr' },
         { name: 'Şirket', url: 'https://orizora.com' },
