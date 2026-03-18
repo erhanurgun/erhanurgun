@@ -47,8 +47,8 @@ class Skills extends Developer {
     stack         = ['TALL Stack', /*MERN Stack*/];
     api           = ['RESTful API', /*'GraphQL', 'gRPC',*/ ...Api];
     server        = ['Apache', 'Nginx', /*'RabbitMQ',*/ ...Server];
-    devOps        = ['Docker', /*'Jenkins', 'CI/CD', 'Kubernetes',*/ ...DevOps];
-    // caching    = ['Redis', 'Memcached', ...Caching];
+    devOps        = ['Docker', 'CI/CD', /*'Jenkins', 'Kubernetes',*/ ...DevOps];
+    caching       = ['Redis', /*'Memcached',*/ ...Caching];
     // mobile     = ['React Native', 'Flutter', ...Mobile];
     // games      = ['Unity', 'Unreal Engine', ...Game];
     // desktop    = ['Electron.js', ...Desktop];
