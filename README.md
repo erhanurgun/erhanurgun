@@ -56,7 +56,7 @@ class Skills extends Developer {
     methodologies = ['Kanban', 'Gantt', /*'Scrum', 'Agile',*/ ...Methodology];
     searchEngines = [/*'Elasticsearch', 'Algolia',*/ ...SearchEngine];
     clouds        = ['Hetzner Cloud', /*'AWS', 'Google Cloud', 'MS Azure', 'DigitalOcean',*/ ...Cloud];
-    others        = ['AI', 'Git', 'Linux', 'cPanel', 'Plesk', 'Cloudflare', 'TALL Stack', /*'Firebase',*/ ...Other];
+    others        = ['AI', 'Git', 'Linux', 'cPanel', 'Plesk', 'Cloudflare', /*'Firebase',*/ ...Other];
 }
 
 export default () => new Developer(new Bio(), new Skills());
