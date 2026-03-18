@@ -43,7 +43,8 @@ class Skills extends Developer {
     languages     = ['PHP', 'JS', 'Node.js', /*'Rust', 'Go','Python', 'C#',*/ ...Language];
     databases     = ['MySQL', 'MS SQL', 'SQLite', /*'PostgreSQL', 'MongoDB', 'Supabase',*/ ...Database];
     frameworks    = ['Laravel', 'Filament', /*'AdonisJS', 'NestJS', 'Django',*/ ...Framework];
-    frontendTools = ['Tailwind CSS', 'Bootstrap', /*'React', 'Alpine.js', 'Bulma', 'SASS',*/ ...FrontendTool];
+    frontendTools = ['Tailwind CSS', 'Bootstrap', 'Alpine.js', /*'React', 'Bulma', 'SASS',*/ ...FrontendTool];
+    stack         = ['TALL Stack', /*MERN Stack*/];
     api           = ['RESTful API', /*'GraphQL', 'gRPC',*/ ...Api];
     server        = ['Apache', 'Nginx', /*'RabbitMQ',*/ ...Server];
     devOps        = ['Docker', /*'Jenkins', 'CI/CD', 'Kubernetes',*/ ...DevOps];
