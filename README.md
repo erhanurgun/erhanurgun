@@ -23,12 +23,12 @@ import {
 class Bio extends Developer {
     name     = 'Erhan ÜRGÜN';
     role     = 'Back-End Developer';
-    email    = 'erho.dev@gmail.com';
+    email    = 'erho@duck.com';
     websites = [
-        { name: 'Portfolio', url: 'https://erhanurgun.tr' },
-        { name: 'Company', url: 'https://orizora.com' },
+        { name: 'Portfolyo', url: 'https://erhanurgun.tr' },
+        { name: 'Şirket', url: 'https://orizora.com' },
         { name: 'Blog', url: 'https://erho.dev' },
-        { name: 'Bağlantılarım', url: 'https://erho.me' },
+        { name: 'Tüm Bağlantılarım', url: 'https://erho.me' },
         { name: 'LinkTree', url: 'https://linktr.ee/erhanurgun' }
     ];
     socials = [
