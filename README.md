@@ -140,8 +140,5 @@ export default () => new Developer(new Bio(), new Skills());
 <div id="badges">
   + Hakkımdaki detaylar zamanla güncellenecektir...
   <br>
-  + Daha fazla bilgi için
-  <a href="https://erho.me" target="_blank" title="Links">erho.me</a>'den veya
-  <a href="https://erho.social" target="_blank" title="Links">erho.social</a>'dan
-  bütün bağlantılarıma ulaşabilirsiniz...
+  + Daha fazla bilgi için <a href="https://erho.me" target="_blank" title="Links">erho.me</a>'den bütün bağlantılarıma ulaşabilirsiniz...
 </div>
