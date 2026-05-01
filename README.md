@@ -1,6 +1,6 @@
 <div id="message" align="center">
     <a href="https://git.io/typing-svg" target="_blank">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&random=false&width=780&separator=%3C&lines=Selamlar%2C+github+profilime+ho%C5%9Fgeldiniz...+%F0%9F%91%8B%3CBen+bir+back-end+geli%C5%9Ftiricisiyim.%3C%C4%B0lgi+alan%C4%B1m+daha+%C3%A7ok+RESTful+API+geli%C5%9Ftirme+%C3%BCzerine!%3CS%C3%BCrekli+olarak+kendimi+bu+alanda+geli%C5%9Ftiriyorum...%3CFavorim;+Laravel+ve+AdonisJS+ile+RESTful+API+yazmak...%3CDaha+fazlas%C4%B1+i%C3%A7in+websitelerimi+ziyaret+edebilirsiniz..." alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&random=false&width=780&separator=%3C&lines=Selamlar%2C+github+profilime+ho%C5%9Fgeldiniz...+%F0%9F%91%8B%3CBen+full+stack+bir+developer'%C4%B1m.%3C%C4%B0lgi+alan%C4%B1m+daha+%C3%A7ok+RESTful+API+geli%C5%9Ftirme+%C3%BCzerine!%3CS%C3%BCrekli+olarak+kendimi+bu+alanda+geli%C5%9Ftiriyorum...%3CFavorim;+Laravel+ve+AdonisJS+ile+RESTful+API+yazmak...%3CDaha+fazlas%C4%B1+i%C3%A7in+websitelerimi+ziyaret+edebilirsiniz..." alt="Typing SVG" />
     </a>
 </div>
 
